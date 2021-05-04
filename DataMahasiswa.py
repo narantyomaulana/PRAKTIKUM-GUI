@@ -37,7 +37,7 @@ class Ui_MainWindow(object):
         font.setBold(True)
         font.setWeight(75)
 
-		#Label untuk Text NIM
+	#Label untuk Text NIM
         self.label_2.setFont(font)
         self.label_2.setObjectName("label_2")
 
