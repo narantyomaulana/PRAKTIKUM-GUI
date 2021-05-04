@@ -3,20 +3,20 @@
 ## Data Mahasiswa
 ![enter image description here](https://i.ibb.co/wcRzsb1/Data-Mahasiswa.png)
 
-##Label
+## Label
 ![enter image description here](https://i.ibb.co/mv9fTJn/1.png)
 
-##List Widget
+## List Widget
 ![enter image description here](https://i.ibb.co/2t6ZY5f/2.png)
 
-##Label
+## Label
 ![enter image description here](https://i.ibb.co/R9b2CVJ/3.png)
 
-##Line Edit
+## Line Edit
 ![enter image description here](https://i.ibb.co/ckGtSvz/4.png)
 
-##Push Button
+## Push Button
 ![enter image description here](https://i.ibb.co/NVXWjBg/5.png)
 
-##Widget
+## Widget
 ![enter image description here](https://i.ibb.co/B4XrNgS/6.png)
