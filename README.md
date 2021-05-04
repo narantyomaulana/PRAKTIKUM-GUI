@@ -1,4 +1,4 @@
-# GUI TEORI Desain Layout Menggunakan QT Desaigner
+# GUI TEORI Desain Layout Menggunakan QT Desingner
 
 ## Data Mahasiswa
 ![enter image description here](https://i.ibb.co/wcRzsb1/Data-Mahasiswa.png)
