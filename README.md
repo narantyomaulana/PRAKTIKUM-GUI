@@ -1,5 +1,5 @@
 # PRAKTIKUM GUI DAN TEORI
 
-#Narantyo Maulana A.N
-#19104048
+# Narantyo Maulana A.N
+# 19104048
 
