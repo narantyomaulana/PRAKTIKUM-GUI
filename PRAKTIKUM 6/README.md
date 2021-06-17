@@ -1,6 +1,6 @@
 # GUI-Praktikum 6
 
-#Vincent Nathaniel
-#19104016
+#Narantyo Maulana A.N
+#19104048
 
 
